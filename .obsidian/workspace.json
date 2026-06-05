@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.1 Example of Passive and Active Information Gathering.md",
+                "file": "module-note/6.1 Example of Passive and Active Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
@@ -231,13 +231,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54fabdf24041c326",
+  "active": "882970d885572cf0",
   "lastOpenFiles": [
-    "6.1 Example of Passive and Active Information Gathering.md",
-    "Pasted image 20260605024907.png",
-    "Pasted image 20260605024855.png",
+    "Pasted image 20260605025752.png",
+    "Pasted image 20260605025730.png",
     "module-note/6. Information Gathering.md",
-    "Pasted image 20260605023205.png",
+    "module-note/6.1 Example of Passive and Active Information Gathering.md",
+    "misc/Pasted image 20260605025558.png",
+    "misc/Pasted image 20260605023205.png",
+    "misc/Pasted image 20260605024907.png",
+    "misc/Pasted image 20260605024855.png",
     "misc/google-hacking.png",
     "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
     "module-note/5. Report Writing for Penetration Testers.md",
