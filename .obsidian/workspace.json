@@ -39,19 +39,21 @@
         "currentTab": 1
       },
       {
-        "id": "e0599cbe8b1e9ae7",
+        "id": "4186e6f2ecc86fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "492269ec4abb76ef",
+            "id": "882970d885572cf0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "misc/google-hacking.png"
+                "file": "6.1 Example of Passive and Active Information Gathering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "google-hacking"
+              "icon": "lucide-file",
+              "title": "6.1 Example of Passive and Active Information Gathering"
             }
           }
         ]
@@ -111,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84a118d34cf976e7",
@@ -213,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +231,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "713bba3d4f6a24f2",
+  "active": "54fabdf24041c326",
   "lastOpenFiles": [
     "6.1 Example of Passive and Active Information Gathering.md",
-    "misc/google-hacking.png",
+    "Pasted image 20260605024907.png",
+    "Pasted image 20260605024855.png",
     "module-note/6. Information Gathering.md",
+    "Pasted image 20260605023205.png",
+    "misc/google-hacking.png",
     "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
     "module-note/5. Report Writing for Penetration Testers.md",
     "template/Template for Note Taking.md",
