@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "74e0c5eb7111d7ee",
+        "id": "286a40a561563650",
         "type": "tabs",
         "children": [
           {
-            "id": "0adacf3a35ca26c9",
+            "id": "02e22483ce144b4a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "module-note/6. Information Gathering.md",
-                "bFile": "module-note/6. Information Gathering.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "module-note/6.1 Example of Passive and Active Information Gathering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 6. Information Gathering  (Index)"
-            }
-          },
-          {
-            "id": "1c0566158629cee0",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "module-note/5. Report Writing for Penetration Testers.md",
-                "bFile": "module-note/5. Report Writing for Penetration Testers.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 5. Report Writing for Penetration Testers  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "6.1 Example of Passive and Active Information Gathering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,23 +174,13 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "868bb9eeb0523441",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c0566158629cee0",
+  "active": "02e22483ce144b4a",
   "lastOpenFiles": [
-    "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
-    "module-note/5. Report Writing for Penetration Testers.md",
     "module-note/6. Information Gathering.md",
+    "module-note/5. Report Writing for Penetration Testers.md",
+    "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "conflict-files-obsidian-git.md",
     "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
