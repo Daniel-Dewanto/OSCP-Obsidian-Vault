@@ -10,7 +10,6 @@
           {
             "id": "02e22483ce144b4a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,8 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "6. Information Gathering"
-            }
-          },
-          {
-            "id": "6b0d102c7bb179cc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "module-note/6.1 Example of Passive and Active Information Gathering.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "6.1 Example of Passive and Active Information Gathering"
             }
           }
         ]
@@ -198,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 498.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -216,22 +198,22 @@
   "active": "02e22483ce144b4a",
   "lastOpenFiles": [
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
-    "module-note/6. Information Gathering.md",
-    "Pasted image 20260607092954.png",
-    "Pasted image 20260607092700.png",
-    "Pasted image 20260607092646.png",
-    "Pasted image 20260607092414.png",
-    "Pasted image 20260607091238.png",
-    "misc/Pasted image 20260605025730.png",
+    "misc/Pasted image 20260607092954.png",
+    "misc/Pasted image 20260607092700.png",
+    "misc/Pasted image 20260607092646.png",
+    "misc/Pasted image 20260607092414.png",
+    "misc/Pasted image 20260607091238.png",
     "misc/Pasted image 20260607091046.png",
     "misc/Pasted image 20260607091035.png",
-    "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
-    "misc/google-hacking.png",
-    "misc/Pasted image 20260605025558.png",
-    "module-note/5.1. Example of Record to Keep.md",
+    "misc/Pasted image 20260605025752.png",
+    "misc/Pasted image 20260605025730.png",
+    "module-note/6. Information Gathering.md",
     "module-note/5. Report Writing for Penetration Testers.md",
     "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
     "conflict-files-obsidian-git.md",
+    "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
+    "misc/google-hacking.png",
+    "module-note/5.1. Example of Record to Keep.md",
     "template/Template for Note Taking.md",
     "OSCP General Module Notes.base",
     "Welcome.md",
