@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "6. Information Gathering"
             }
+          },
+          {
+            "id": "0be2709c71cc6e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module-note/6.1 Example of Passive and Active Information Gathering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Example of Passive and Active Information Gathering"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,9 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02e22483ce144b4a",
+  "active": "0be2709c71cc6e2f",
   "lastOpenFiles": [
+    "module-note/6. Information Gathering.md",
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
+    "6.1.md",
     "misc/Pasted image 20260607092954.png",
     "misc/Pasted image 20260607092700.png",
     "misc/Pasted image 20260607092646.png",
@@ -207,7 +224,6 @@
     "misc/Pasted image 20260607091035.png",
     "misc/Pasted image 20260605025752.png",
     "misc/Pasted image 20260605025730.png",
-    "module-note/6. Information Gathering.md",
     "module-note/5. Report Writing for Penetration Testers.md",
     "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
     "conflict-files-obsidian-git.md",
