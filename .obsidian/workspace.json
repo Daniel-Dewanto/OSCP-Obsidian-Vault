@@ -37,7 +37,8 @@
               "title": "6.1 Example of Passive and Active Information Gathering"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54fabdf24041c326",
+  "active": "0adacf3a35ca26c9",
   "lastOpenFiles": [
-    "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "module-note/6. Information Gathering.md",
+    "scan_results_3500-10000.txt",
+    "scan_results.txt",
+    "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "Test.md",
     "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
     "misc/Pasted image 20260607092954.png",
