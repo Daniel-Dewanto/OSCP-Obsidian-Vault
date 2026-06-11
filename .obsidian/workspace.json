@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "286a40a561563650",
+        "id": "74e0c5eb7111d7ee",
         "type": "tabs",
         "children": [
           {
-            "id": "02e22483ce144b4a",
+            "id": "54fabdf24041c326",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,12 +18,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "6. Information Gathering"
             }
           },
           {
-            "id": "0be2709c71cc6e2f",
+            "id": "0adacf3a35ca26c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +37,7 @@
               "title": "6.1 Example of Passive and Active Information Gathering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,11 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0be2709c71cc6e2f",
+  "active": "54fabdf24041c326",
   "lastOpenFiles": [
-    "module-note/6. Information Gathering.md",
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
-    "6.1.md",
+    "module-note/6. Information Gathering.md",
+    "Test.md",
+    "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
     "misc/Pasted image 20260607092954.png",
     "misc/Pasted image 20260607092700.png",
     "misc/Pasted image 20260607092646.png",
@@ -224,13 +226,10 @@
     "misc/Pasted image 20260607091035.png",
     "misc/Pasted image 20260605025752.png",
     "misc/Pasted image 20260605025730.png",
+    "Pasted image 20260605025752.png",
     "module-note/5. Report Writing for Penetration Testers.md",
-    "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
-    "conflict-files-obsidian-git.md",
-    "module-note/5.1. Example Note Taking and Report for Penetration Testing.md",
-    "misc/google-hacking.png",
-    "module-note/5.1. Example of Record to Keep.md",
     "template/Template for Note Taking.md",
+    "module-note/4. Note Taking System for OSCP recommended by OffSec.md",
     "OSCP General Module Notes.base",
     "Welcome.md",
     "misc",
