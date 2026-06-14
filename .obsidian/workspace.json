@@ -66,6 +66,20 @@
               "icon": "lucide-file",
               "title": "6. Information Gathering"
             }
+          },
+          {
+            "id": "c9fb9a3af947f912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regex Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regex Notes"
+            }
           }
         ],
         "currentTab": 1
@@ -125,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84a118d34cf976e7",
@@ -244,6 +259,8 @@
   },
   "active": "6b0d102c7bb179cc",
   "lastOpenFiles": [
+    "Regex Notes.md",
+    "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "scan-results/192.168.219.6/80/index.html",
     "scan-results/192.168.219.6/80",
     "scan-results/http-scan-host.txt",
@@ -252,10 +269,8 @@
     "module-note/6. Information Gathering.md",
     "OSCP General Module Notes.base",
     "Pasted image 20260614151503.png",
-    "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "module-note/6.2 Dump nmap scans.md",
     "Note for nmap Lab.md",
-    "Test.md",
     "scan_results_3500-10000.txt",
     "scan_results.txt",
     "Pasted image 20260607092954.png",
@@ -275,7 +290,6 @@
     "template/Template for Note Taking.md",
     "Welcome.md",
     "misc",
-    "module-note",
-    "template"
+    "module-note"
   ]
 }
