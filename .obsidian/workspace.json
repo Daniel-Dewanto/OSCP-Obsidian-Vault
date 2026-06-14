@@ -53,7 +53,8 @@
               "title": "6.2 Dump nmap scans"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,16 +228,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02e22483ce144b4a",
+  "active": "6b0d102c7bb179cc",
   "lastOpenFiles": [
-    "Regex Notes.md",
+    "scripts-offsec/ips",
+    "scripts-offsec/community",
+    "module-note/6. Information Gathering.md",
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
+    "Regex Notes.md",
     "Pasted image 20260614151503.png",
     "Note for nmap Lab.md",
     "scan-results/smtp-hosts.txt",
     "scripts-offsec/smtp-vrfy.py",
     "scripts-offsec",
-    "module-note/6. Information Gathering.md",
     "module-note/6.2.1. Note for nmap Lab.md",
     "Test.md",
     "scan-results/192.168.219.6/80/index.html",
@@ -247,7 +250,6 @@
     "OSCP General Module Notes.base",
     "misc/Pasted image 20260614151503.png",
     "module-note/6.2 Dump nmap scans.md",
-    "scan_results_3500-10000.txt",
     "Pasted image 20260607092954.png",
     "Pasted image 20260607092700.png",
     "Pasted image 20260607092646.png",
