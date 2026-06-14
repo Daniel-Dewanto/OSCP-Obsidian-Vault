@@ -1,0 +1,36 @@
+# Nmap 7.98 scan initiated Sun Jun 14 08:10:21 2026 as: /usr/lib/nmap/nmap --privileged -p 25 -oG smtp-hosts.txt 192.168.219.1-254
+Host: 192.168.219.6 ()	Status: Up
+Host: 192.168.219.6 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.8 ()	Status: Up
+Host: 192.168.219.8 ()	Ports: 25/open/tcp//smtp///
+Host: 192.168.219.9 ()	Status: Up
+Host: 192.168.219.9 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.11 ()	Status: Up
+Host: 192.168.219.11 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.12 ()	Status: Up
+Host: 192.168.219.12 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.13 ()	Status: Up
+Host: 192.168.219.13 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.14 ()	Status: Up
+Host: 192.168.219.14 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.15 ()	Status: Up
+Host: 192.168.219.15 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.17 ()	Status: Up
+Host: 192.168.219.17 ()	Ports: 25/filtered/tcp//smtp///
+Host: 192.168.219.20 ()	Status: Up
+Host: 192.168.219.20 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.21 ()	Status: Up
+Host: 192.168.219.21 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.22 ()	Status: Up
+Host: 192.168.219.22 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.23 ()	Status: Up
+Host: 192.168.219.23 ()	Ports: 25/filtered/tcp//smtp///
+Host: 192.168.219.149 ()	Status: Up
+Host: 192.168.219.149 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.151 ()	Status: Up
+Host: 192.168.219.151 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.152 ()	Status: Up
+Host: 192.168.219.152 ()	Ports: 25/closed/tcp//smtp///
+Host: 192.168.219.254 ()	Status: Up
+Host: 192.168.219.254 ()	Ports: 25/closed/tcp//smtp///
+# Nmap done at Sun Jun 14 08:10:34 2026 -- 254 IP addresses (17 hosts up) scanned in 13.24 seconds
