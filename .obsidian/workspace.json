@@ -259,6 +259,8 @@
   },
   "active": "6b0d102c7bb179cc",
   "lastOpenFiles": [
+    "scan-results/host-smb.txt",
+    "scan-results/host-smb-3.txt",
     "Regex Notes.md",
     "module-note/6.1 Example of Passive and Active Information Gathering.md",
     "scan-results/192.168.219.6/80/index.html",
@@ -289,7 +291,6 @@
     "conflict-files-obsidian-git.md",
     "template/Template for Note Taking.md",
     "Welcome.md",
-    "misc",
-    "module-note"
+    "misc"
   ]
 }
