@@ -1,0 +1,8 @@
+# Nmap 7.98 scan initiated Sat Jun 20 04:00:49 2026 as: /usr/lib/nmap/nmap -sU --open -p 161 -oA snmp-oA-result.txt 192.168.118.151
+Nmap scan report for 192.168.118.151
+Host is up (0.088s latency).
+
+PORT    STATE SERVICE
+161/udp open  snmp
+
+# Nmap done at Sat Jun 20 04:00:50 2026 -- 1 IP address (1 host up) scanned in 0.94 seconds
