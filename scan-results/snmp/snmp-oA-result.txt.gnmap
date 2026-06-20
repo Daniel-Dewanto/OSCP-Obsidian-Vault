@@ -1,0 +1,4 @@
+# Nmap 7.98 scan initiated Sat Jun 20 04:00:49 2026 as: /usr/lib/nmap/nmap -sU --open -p 161 -oA snmp-oA-result.txt 192.168.118.151
+Host: 192.168.118.151 ()	Status: Up
+Host: 192.168.118.151 ()	Ports: 161/open/udp//snmp///
+# Nmap done at Sat Jun 20 04:00:50 2026 -- 1 IP address (1 host up) scanned in 0.94 seconds

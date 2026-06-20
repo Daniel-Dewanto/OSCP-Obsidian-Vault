@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.98 scan initiated Sat Jun 20 04:00:49 2026 as: /usr/lib/nmap/nmap -sU -&#45;open -p 161 -oA snmp-oA-result.txt 192.168.118.151 -->
+<nmaprun scanner="nmap" args="/usr/lib/nmap/nmap -sU -&#45;open -p 161 -oA snmp-oA-result.txt 192.168.118.151" start="1781942449" startstr="Sat Jun 20 04:00:49 2026" version="7.98" xmloutputversion="1.05">
+<scaninfo type="udp" protocol="udp" numservices="1" services="161"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="192.168.118.151" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<host starttime="1781942450" endtime="1781942450"><status state="up" reason="echo-reply" reason_ttl="125"/>
+<address addr="192.168.118.151" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><port protocol="udp" portid="161"><state state="open" reason="udp-response" reason_ttl="125"/><service name="snmp" method="table" conf="3"/></port>
+</ports>
+<times srtt="87746" rttvar="66162" to="352394"/>
+</host>
+<runstats><finished time="1781942450" timestr="Sat Jun 20 04:00:50 2026" summary="Nmap done at Sat Jun 20 04:00:50 2026; 1 IP address (1 host up) scanned in 0.94 seconds" elapsed="0.94" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
