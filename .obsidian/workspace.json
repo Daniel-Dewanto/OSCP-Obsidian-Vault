@@ -54,21 +54,49 @@
             }
           },
           {
-            "id": "55fd1438bc722b4b",
+            "id": "be1637aa486fafba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-note/6.1 Example of Passive and Active Information Gathering.md",
+                "file": "module-note/6. Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1 Example of Passive and Active Information Gathering"
+              "title": "6. Information Gathering"
+            }
+          },
+          {
+            "id": "c9fb9a3af947f912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regex Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regex Notes"
+            }
+          },
+          {
+            "id": "68e3eb5141af096d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module-note/7. Vulnerability Scanning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Vulnerability Scanning"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84a118d34cf976e7",
@@ -227,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,27 +271,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b0d102c7bb179cc",
+  "active": "68e3eb5141af096d",
   "lastOpenFiles": [
-    "module-note/6. Information Gathering.md",
-    "module-note/6.1 Example of Passive and Active Information Gathering.md",
-    "scan-results/snmp/snmp-oA-result.txt.xml",
-    "scan-results/snmp/snmp-oA-result.txt.gnmap",
-    "scan-results/snmp/snmp-oA-result.txt.nmap",
-    "scan-results/snmp/ips",
-    "scan-results/snmp/community",
-    "scan-results/snmp",
-    "scripts-offsec/ips",
-    "scripts-offsec/community",
+    "OSCP General Module Notes.base",
+    "module-note/7. Vulnerability Scanning.md",
     "Regex Notes.md",
+    "module-note/6.2.1. Note for nmap Lab.md",
+    "scan-results/192.168.219.6/80/index.html",
+    "module-note/6.1 Example of Passive and Active Information Gathering.md",
+    "scan-results/host-smb.txt",
+    "scan-results/host-smb-3.txt",
+    "scan-results/http-scan-host.txt",
+    "scan-results/smtp-hosts.txt",
+    "scan_results.txt",
+    "scan_results_3500-10000.txt",
+    "scan-results/snmp/snmp-oA-result.txt.xml",
+    "scan-results/snmp/snmp-oA-result.txt.nmap",
+    "module-note/6.2 Dump nmap scans.md",
+    "misc/Pasted image 20260614151503.png",
+    "module-note/6. Information Gathering.md",
     "Pasted image 20260614151503.png",
     "Note for nmap Lab.md",
-    "scan-results/smtp-hosts.txt",
-    "scripts-offsec/smtp-vrfy.py",
-    "module-note/6.2.1. Note for nmap Lab.md",
-    "Test.md",
-    "misc/Pasted image 20260614151503.png",
-    "module-note/6.2 Dump nmap scans.md",
     "Pasted image 20260607092954.png",
     "Pasted image 20260607092700.png",
     "Pasted image 20260607092646.png",
